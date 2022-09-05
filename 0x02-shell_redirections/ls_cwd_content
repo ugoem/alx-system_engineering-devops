@@ -1,0 +1,16 @@
+total 8
+drwxr-xr-x 1 ugoem ugoem 4096 Sep  5 17:46 .
+drwxr-xr-x 1 ugoem ugoem 4096 Sep  5 13:52 ..
+-rwxr--r-- 1 ugoem ugoem   32 Sep  5 13:56 0-hello_world
+-rwxr--r-- 1 ugoem ugoem   25 Sep  5 14:06 1-confused_smiley
+-rwxr--r-- 1 ugoem ugoem   29 Sep  5 14:22 2-hellofile
+-rwxr--r-- 1 ugoem ugoem   45 Sep  5 14:29 3-twofiles
+-rwxr--r-- 1 ugoem ugoem   35 Sep  5 14:33 4-lastlines
+-rwxr--r-- 1 ugoem ugoem   35 Sep  5 14:35 5-firstlines
+-rwxr--r-- 1 ugoem ugoem   42 Sep  5 14:49 6-third_line
+-rwxr--r-- 1 ugoem ugoem   94 Sep  5 17:32 7-file
+-rwxr--r-- 1 ugoem ugoem   37 Sep  5 17:46 8-cwd_state
+-rw-r--r-- 1 ugoem ugoem   37 Sep  5 13:54 README.md
+-rw-r--r-- 1 ugoem ugoem   13 Sep  5 17:10 \*\\Best School\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 ugoem ugoem  916 Sep  5 14:52 iacta
+-rw-r--r-- 1 ugoem ugoem    0 Sep  5 17:47 ls_cwd_content
