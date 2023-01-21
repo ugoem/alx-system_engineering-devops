@@ -8,6 +8,7 @@ This project is NOT mandatory at all. It is 100% optional. Doing any part of thi
 # Requirements
 
 General
+
 A README.md file, at the root of the folder of the project, is mandatory
 This project will be manually reviewed.
 As each task is completed, the name of that task will turn green
