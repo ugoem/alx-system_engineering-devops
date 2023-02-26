@@ -3,7 +3,6 @@
 ![image](https://user-images.githubusercontent.com/24642339/221423495-c79471ea-8b5e-4c93-acc4-9414b99f107b.png)
 
 
-
 # Requirements
 ## General
 * A README.md file, at the root of the folder of the project, is mandatory
@@ -20,8 +19,33 @@
 * Similarly in a job interview, you should answer what the interviewer asked for, be careful about being too verbose - always ask the interviewer if going into details is necessary - speaking too much can play against you
 * In this project, again, avoid going in details if not asked
 
-# Tast 0
+# 0. Simple web stack
 ![1egt96U - Imgur](https://user-images.githubusercontent.com/24642339/221438056-edb6dd83-41d8-40ca-89a9-51e37fc5ffb6.jpg)
+
+# Requirements:
+
+## You must use:
+* 1 server
+* 1 web server (Nginx)
+* 1 application server
+* 1 application files (your code base)
+* 1 database (MySQL)
+* 1 domain name foobar.com configured with a www record that points to your server IP 8.8.8.8
+* You must be able to explain some specifics about this infrastructure:
+* What is a server
+* What is the role of the domain name
+* What type of DNS record www is in www.foobar.com
+* What is the role of the web server
+* What is the role of the application server
+* What is the role of the database
+* What is the server using to communicate with the computer of the user requesting the website
+*You must be able to explain what the issues are with this infrastructure:
+* SPOF
+* Downtime when maintenance needed (like deploying new code web server needs to be restarted)
+* Cannot scale if too much incoming traffic
+
+# 1. Distributed web infrastructure
+image here
 
 # Requirements:
 
@@ -39,7 +63,7 @@
 * Is your load-balancer enabling an Active-Active or Active-Passive setup, explain the difference between both
 * How a database Primary-Replica (Master-Slave) cluster works
 * What is the difference between the Primary node and the Replica node in regard to the application
-* You must be able to explain what the issues are with this infrastructure:
+*You must be able to explain what the issues are with this infrastructure:
 * Where are SPOF
 * Security issues (no firewall, no HTTPS)
 * No monitoring
