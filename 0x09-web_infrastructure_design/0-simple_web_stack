@@ -1,1 +1,7 @@
-![image](https://imgur.com/a/bjzbYXg.jpg)
+https://imgur.com/a/bjzbYXg
+
+# 0. Simple web stack
+
+•	What is a server
+Servers are physical machines (as hardware), virtual machines or software (computer programs) that serve or provide functionality to other programs or devices called “clients”. The term server comes from queuing theory used in Kendall’s notation, where servers serve or process the clients requirements in the same way as a telephone operator, a cooker or a production machine process incoming orders, having in mind its capacity and service process time.
+A computer can function as a server, and a server can be a computer, both of them being built up with hardware and software. However, the main difference between these two is the capacity and computer power servers have. In other words, servers are computers on steroids with faster processing capacity. They are usually stored in data centers racks (stacks of servers piled one on top of each other).
