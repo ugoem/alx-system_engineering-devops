@@ -21,7 +21,7 @@
 * In this project, again, avoid going in details if not asked
 
 # Tast 0
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bjzbYXg" data-context="false" ><a href="//imgur.com/a/bjzbYXg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![1egt96U - Imgur](https://user-images.githubusercontent.com/24642339/221438056-edb6dd83-41d8-40ca-89a9-51e37fc5ffb6.jpg)
 
 # Requirements:
 
