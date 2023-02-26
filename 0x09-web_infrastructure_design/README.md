@@ -1,6 +1,7 @@
 # Web infrastructure design
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lQNEW76KdYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![image](https://user-images.githubusercontent.com/24642339/221423495-c79471ea-8b5e-4c93-acc4-9414b99f107b.png)
+
 
 
 # Requirements
