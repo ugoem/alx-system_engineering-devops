@@ -1,6 +1,6 @@
 # Web infrastructure design
 
-[![img_tag]](https://youtu.be/lQNEW76KdYg)
+[![img_tag](https://image-url.png)](https://youtu.be/lQNEW76KdYg)
 
 # Requirements
 ## General
