@@ -92,7 +92,8 @@
 * Why having servers with all the same components (database, web server and application server) might be a problem
 
 # 3. Scale up
-image here
+![3-scale_up](https://user-images.githubusercontent.com/24642339/221446114-b9ecc74c-37ff-4db1-963a-09ac283b5bd9.PNG)
+
 # Requirements:
 
 ## You must add:
