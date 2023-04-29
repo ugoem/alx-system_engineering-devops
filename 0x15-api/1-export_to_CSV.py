@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 14 16:22:14 2020
-@author: Robinson Montes
+Created on Sat April 29 16:46:14 2023
+@author: Anionovo Ugochukwu
 """
 from requests import get
 from sys import argv
