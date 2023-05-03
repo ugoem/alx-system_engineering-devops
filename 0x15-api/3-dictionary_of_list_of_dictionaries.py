@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat April 29 16:46:14 2023
-@author: Anionovo Ugochukwu 
+@author: Anionovo Ugochukwu
 """
 from json import dump
 from requests import get
