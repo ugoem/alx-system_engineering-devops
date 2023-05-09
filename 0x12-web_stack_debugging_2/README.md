@@ -1,6 +1,10 @@
 # 0X12-Web_Stack_Debugging_2
 
-![](https://repository-images.githubusercontent.com/289166070/241e9b23-f69f-4bcc-b760-2ee745b9e098)
+## Concepts
+For this project, we expect you to look at this concept:
+
+* Web stack debugging
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/287/99littlebugsinthecode-holberton.jpg)
 
 > Debugging usually takes a big chunk of a software engineer’s time. The art of debugging is tough and it takes years, even decades to master, and that is why seasoned software engineers are the best at it… experience. They have seen lots of broken code, buggy systems, weird edge cases and race conditions.
 
