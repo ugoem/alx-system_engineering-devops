@@ -13,7 +13,7 @@ if [[ -z $FIND ]]; then
     sed -i "23i $HEADER" /etc/nginx/sites-available/default
 fi
 
-# Create a firts index.html page
+# Create a first index.html page
 echo "Hello World!" > /var/www/html/index.html
 
 # Add to the nginx configuration file a redirection to another page
